@@ -141,13 +141,12 @@ export const content = {
       {
         title: "MSC CARD",
         image: project1,
-        link: "https://mscard.tech/"
+        
       },
       {
         title: "CV",
         image: project2,
-        link : "https://drive.google.com/file/d/1BeibZuQusk7yjqGjCeih24AZuDLUHULn/view?usp=drive_link",
-      
+        
       },
      
     ],
